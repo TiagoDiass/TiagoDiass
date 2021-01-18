@@ -9,7 +9,7 @@
 
 - :man_technologist: **Fullstack** Web Developer and passionate about building projects that impact people's lives :dizzy:
 - 🔭 Currently learning React and working on web applications with Vue.js and Node.js
-- :briefcase: Currently working as a Front-end Developer
+- :briefcase: Currently working as a Junior Fullstack Developer
 - 💻 Techs: Javascript, Vue.js, Vuex, React, Sass, Node.js, and **more**.
 - :books: Currently studying Analysis and Systems Development at Fatec Mogi Mirim
 
