@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/first.gif)
+![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/second.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodiass/)](https://www.linkedin.com/in/tiagodiass/)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.costadiasss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.costadiasss@gmail.com)](mailto:tiago.costadiasss@gmail.com)
