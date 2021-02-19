@@ -8,7 +8,7 @@
 ### Hey there! 👋
 
 - :man_technologist: **Fullstack** Web Developer and passionate about building projects that impact people's lives :dizzy:
-- 🔭 Currently studying React with Typescript
+- 🔭 Currently studying React with TypeScript and UI tests
 - :briefcase: Currently working as a Junior Fullstack Developer
 - 💻 Techs: Javascript, Typescript, Vue.js, React, Sass, Node.js, and **more**.
 - :books: Currently studying Analysis and Systems Development at Fatec Mogi Mirim
