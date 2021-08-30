@@ -9,8 +9,8 @@
 
 - :man_technologist: Fullstack Web Developer with focus on Front-end. I am passionate about building projects that impact people's lives :dizzy:
 - 🔭 Currently studying React and Next.js, both with TypeScript and UI tests
-- :briefcase: Currently working as a Junior Front-end Developer with React.
-- 💻 Techs: Javascript, Typescript, Vue.js, React, Next.js, Sass, Node.js, and **more**.
+- :briefcase: Currently working as a Junior Front-end Developer with React
+- 💻 Techs: Javascript, Typescript, Vue.js, React, Next.js, Sass, Node.js, and **more**
 - :books: Currently studying Analysis and Systems Development at Fatec Mogi Mirim
 
 Get in touch :wave:
