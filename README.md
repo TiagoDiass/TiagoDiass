@@ -8,10 +8,10 @@
 ### Hey there! 👋
 
 - :man_technologist: Fullstack Web Developer with focus on Front-end. I am passionate about building projects that impact people's lives :dizzy:
-- :briefcase: Currently working as a Junior Front-end Developer with React
+- :briefcase: Currently working as a Front-end Developer with React
 - 💻 Techs: Javascript, Typescript, Vue.js, React, Next.js, Sass, Node.js, and **more**
-- :books: Currently studying Analysis and Systems Development at Fatec Mogi Mirim
+- 🔎 Currently studying Next.js, UI components tests with React Testing Library, and GraphQL
+- :books: Graduated in Systems Analysis and Development at Fatec Mogi Mirim
 
-Get in touch :wave:
 
 ---
