@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/second.gif)
+![](https://raw.githubusercontent.com/TiagoDiass/tiagodiass.github.io/master/assets/img/profile-readme.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodiass/)](https://www.linkedin.com/in/tiagodiass/)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.costadiasss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.costadiasss@gmail.com)](mailto:tiago.costadiasss@gmail.com)
@@ -7,10 +7,10 @@
 
 ### Hey there! 👋
 
-- :man_technologist: Fullstack Web Developer with focus on Front-end. I am passionate about building projects that impact people's lives :dizzy:
+- :man_technologist: Front-end developer with focus on React and its ecosystem. I am passionate about building projects that impact people's lives :dizzy:
 - :briefcase: Currently working as a Front-end Developer with React
-- 💻 Techs: Javascript, Typescript, Vue.js, React, Next.js, Sass, Node.js, and **more**
-- 🔎 Currently studying Next.js, UI components tests with React Testing Library, and GraphQL
+- 💻 Techs: Javascript, Typescript, React, Next.js, Vue.js, Sass, Node.js, and **more**
+- 🔎 Currently studying Next.js, UI components documentation with Storybook, tests with React Testing Library, and GraphQL
 - :books: Graduated in Systems Analysis and Development at Fatec Mogi Mirim
 
 
