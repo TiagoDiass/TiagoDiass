@@ -7,7 +7,7 @@
 
 ### Hey there! 👋
 
-- :man_technologist: Front-end developer with focus on React and its ecosystem. I am passionate about building projects that impact people's lives :dizzy:
+- :man_technologist: Front-end developer with focus on React and its ecosystem. I'm passionate about building projects that impact people's lives :dizzy:
 - :briefcase: Currently working as a Front-end Developer with React
 - 💻 Techs: Javascript, Typescript, React, Next.js, Vue.js, Sass, Node.js, and **more**
 - 🔎 Currently studying Next.js, UI components documentation with Storybook, tests with React Testing Library, and GraphQL
