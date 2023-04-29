@@ -2,8 +2,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagodiass/)](https://www.linkedin.com/in/tiagodiass/)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.costadiasss@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiago.costadiasss@gmail.com)](mailto:tiago.costadiasss@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996643581&text=Olá!)](https://api.whatsapp.com/send?phone=5519996643581&text=Olá!)
-[![CV Badge](https://img.shields.io/badge/-Curriculum-2E4053?style=flat-square&labelColor=2E4053&&logo=read-the-docs&logoColor=white&link=https://https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing)](https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing)
+
+<!-- [![CV Badge](https://img.shields.io/badge/-Curriculum-2E4053?style=flat-square&labelColor=2E4053&&logo=read-the-docs&logoColor=white&link=https://https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing)](https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing) -->
 
 ### Hey there! 👋
 
@@ -14,4 +14,4 @@
 - :books: Graduated in Systems Analysis and Development at Fatec Mogi Mirim
 
 
----
+
