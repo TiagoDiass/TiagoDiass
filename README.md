@@ -6,7 +6,7 @@
 
 <!-- [![CV Badge](https://img.shields.io/badge/-Curriculum-2E4053?style=flat-square&labelColor=2E4053&&logo=read-the-docs&logoColor=white&link=https://https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing)](https://docs.google.com/document/d/1uGZ5D8FRUDrYahXtus0G6G1Ti_9Ozvu2yINYgPCsWpo/edit?usp=sharing) -->
 
-### Hey there! 👋
+### Hey there! I'm Tiago Dias 👋
 
 - :man_technologist: Front-end Engineer with focus on React and its ecosystem. I'm passionate about building projects that impact people's lives :dizzy:
 - :briefcase: Currently working as a Front-end Engineer with React
