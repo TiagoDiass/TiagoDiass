@@ -8,10 +8,10 @@
 
 ### Hey there! I'm Tiago Dias 👋
 
-- 🧑🏻‍💻 Front-end Engineer with focus on React and its ecosystem. I'm passionate about building projects that impact people's lives :dizzy:
+- 🧑🏻‍💻 Front-end Engineer passionate about building projects that impact people's lives :dizzy:
 - 💼 Currently working as a Front-end Engineer with React
 - 💻 Techs: Javascript, Typescript, React, Next.js, Vue.js, Sass, Node.js, and **more**
-- 🔎 Currently learning Nest.js and Go for back-end applications
+- 🔎 Currently Go for back-end applications
 - 📚 Graduated in Systems Analysis and Development at Fatec Mogi Mirim
 
 
